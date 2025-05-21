@@ -13,7 +13,7 @@ import io.grpc.stub.StreamObserver;
 
 /**
  *
- * @author ajand
+ * @author ajandongan Distributed System TABA 2025
  */
 public class SumServer {
   public static void main(String[] args) throws Exception {

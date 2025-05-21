@@ -12,7 +12,7 @@ import io.grpc.ManagedChannelBuilder;
 
 /**
  *
- * @author ajand
+ * @author ajandongan Distributed System TABA 2025
  */
 public class SumClient {
   public static void main(String[] args) {

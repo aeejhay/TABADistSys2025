@@ -6,7 +6,7 @@ package distsys.adrianjandongantaba2025;
 
 /**
  *
- * @author ajand
+ * @author ajandongan Distributed System TABA 2025
  */
 
 import grpc.sum.SumRequest;
